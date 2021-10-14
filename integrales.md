@@ -1,2 +1,1 @@
-Esta es una modificacion al archivo integrales
-
+Probando el merge con la solución de conflictos
